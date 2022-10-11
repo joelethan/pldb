@@ -9,7 +9,7 @@ paragraph
  verve is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2017">2017</a>.
 
 kpiTable
- #1910 <span title="TotalRank: 2376 Jobs: 62 Users: 2197 Facts: 1365 Links: 949">on PLDB</span>
+ #1984 <span title="TotalRank: 2425 Jobs: 69 Users: 2298 Facts: 1406 Links: 950">on PLDB</span>
  5 Years Old
  0 <span title="Books about or leveraging verve">Books</span>
  0 <span title="Academic publications about or leveraging verve">Papers</span>
@@ -74,4 +74,4 @@ pipeTable
  title|titleLink|date|score|comments
  Verve – a functional language for the working hacker|https://news.ycombinator.com/item?id=15809432|11/29/2017|2|0
 
-keyboardNav sweet-expressions.html blue.html
+keyboardNav sweet-expressions.html cp.html
